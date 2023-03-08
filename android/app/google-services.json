@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1061257394920",
+    "project_id": "pulperia-j-e267a",
+    "storage_bucket": "pulperia-j-e267a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061257394920:android:ce6a85e5e38ec0c5ee675d",
+        "android_client_info": {
+          "package_name": "com.kvargas60361.pulperiaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061257394920-ja1975fjmbmg8irg3ckm9hud5igi0j3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kvargas60361.pulperiaj",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1061257394920-phc475e9cq77c70i49gchm2nvfqude92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaSqQhndpo8y2rhes-Q-j3NezA152yaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061257394920-phc475e9cq77c70i49gchm2nvfqude92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061257394920-0f24kekaien9cgtuiqk25072mo0n6b88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kvargas60361.pulperiaj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061257394920:android:b60e6f80afdc0ee9ee675d",
+        "android_client_info": {
+          "package_name": "com.kvargas60361.pulperiaj2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061257394920-aoa5jpsh8kmd8eeuv2rn8sb6bkk5l21i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kvargas60361.pulperiaj2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1061257394920-phc475e9cq77c70i49gchm2nvfqude92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaSqQhndpo8y2rhes-Q-j3NezA152yaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061257394920-phc475e9cq77c70i49gchm2nvfqude92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061257394920-0f24kekaien9cgtuiqk25072mo0n6b88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kvargas60361.pulperiaj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

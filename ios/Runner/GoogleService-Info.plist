@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1061257394920-jbf9c99o07lgi6osa5macm2hqt02qr5p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1061257394920-jbf9c99o07lgi6osa5macm2hqt02qr5p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1061257394920-aoa5jpsh8kmd8eeuv2rn8sb6bkk5l21i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXbxeMCcfxcZ1kHAA6UWmBUCQHgA8zXNI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1061257394920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kvargas60361.pulperiaj2</string>
+	<key>PROJECT_ID</key>
+	<string>pulperia-j-e267a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pulperia-j-e267a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1061257394920:ios:c591acf4016c3d48ee675d</string>
+</dict>
+</plist>
